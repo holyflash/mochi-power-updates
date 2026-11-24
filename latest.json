@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.3.7",
-  "apkUrl": "https://raw.githubusercontent.com/holyflash/mochi-power-updates/main/apk/MochiPower-0.3.7.apk",
-  "sha256": "5e03a3a071f2ac5c2124025ffafbbb8f37fb12da99cf7b06c0e6fae9846c9c85",
-  "notes": "Mochi Power 0.3.7: стабильная сборка. История и настройки сохраняются при обновлении, подписанном тем же ключом."
+  "versionCode": 12,
+  "versionName": "0.3.8",
+  "apkUrl": "https://raw.githubusercontent.com/holyflash/mochi-power-updates/main/apk/MochiPower-0.3.8.apk",
+  "sha256": "8016a7384a3a6ad218310c15c725e50b3cbfef3af1bb3f0329352687b1b0446c",
+  "notes": "Mochi Power 0.3.8: стабильная сборка. История и настройки сохраняются при обновлении, подписанном тем же ключом."
 }
